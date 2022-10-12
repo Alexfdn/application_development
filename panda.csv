@@ -1,0 +1,60 @@
+address,г Тюмень,0
+conclusion,False,0
+developer,"{'devId': 306, 'devShortCleanNm': '2МЕН ГРУПП', 'devShortNm': '2МЕН ГРУПП', 'devFullCleanNm': '2МЕН ГРУПП', 'problObjCnt': 0, 'buildObjCnt': 5, 'comissObjCnt': 0, 'regRegionDesc': 'Тюменская область', 'devPhoneNum': '+7(345)279-18-88', 'devSite': '2mengroup.ru', 'devEmail': 'info@2mengroup.ru', 'devInn': '7701651356', 'devOgrn': '1067746424899', 'devKpp': '720301001', 'devLegalAddr': 'Тюменская область, город Тюмень, улица Комсомольская дом 75/5', 'devFactAddr': 'Тюменская область, город Тюмень, улица Комсомольская 75/5', 'lastRpdId': 645065, 'fundGuarantyFlg': 1, 'devOrgRegRegionCd': 72, 'devEmplMainFullNm': 'Киселев Сергей Михайлович', 'developerGroupName': '2МЕН ГРУПП ДЕВЕЛОПМЕНТ', 'orgForm': {'id': 1, 'fullForm': 'Акционерное общество', 'shortForm': 'АО'}, 'companyGroupId': 5776, 'objGuarantyEscrowFlg': 0, 'govFundFlg': 0}",0
+floorMax,20,0
+floorMin,4,0
+generalContractorNm,ООО Транспромжилстрой-2005 (ИНН: 7204097730),0
+id,13383,0
+infrastructureIndexValue,10,0
+isAvailableWantLiveHere,True,0
+loadDttm,12-10-2022 01:28,0
+miniUrl,https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/0dca6482-02ba-4d56-a861-7a17db04c957,0
+newBuildingId,39024,0
+nonlivFirstFloor,1,0
+objCompensFundFlg,1,0
+objElemLivingCnt,68,0
+objElemParkingCnt,31,0
+objElevatorCargoCnt,1,0
+objElevatorCargoPassengerCnt,7,0
+objElevatorPassengerCnt,5,0
+objElevatorWheelchairCnt,0,0
+objEnergyEffShortDesc,B,0
+objFlatCnt,68,0
+objFlatSq,6293.78,0
+objFloorCnt,20,0
+objGreenHouseFlg,0,0
+objGuarantyEscrowFlg,0,0
+objInfrstrBicycleLaneFlg,0,0
+objInfrstrCurbLoweringFlg,1,0
+objInfrstrNotObjPrkngCnt,11,0
+objInfrstrObjPrkngCnt,0,0
+objInfrstrPlaygrndCnt,1,0
+objInfrstrRampFlg,1,0
+objInfrstrSportGroundCnt,1,0
+objInfrstrTrashAreaCnt,1,0
+objLivCeilingHeight,"2,8",0
+objLkClassDesc,Элитный,0
+objLkFinishTypeDesc,По желанию заказчика,0
+objLkFreePlanDesc,Есть,0
+objLkLatitude,57.1519,0
+objLkLongitude,65.5536,0
+objLkSaleDepEmail,info@2mengroup.ru,0
+objNonlivElemCnt,10,0
+objPriceAvg,53109,0
+objProblemFlg,0,0
+objReady100PercDt,2022-12-31,0
+objSquareLiving,6293.78,0
+objStatus,0,0
+objTransferPlanDt,28-02-2023 12:00,0
+objectTransportInfo,[],0
+objectType,normal,0
+pdId,28105,0
+photoRenderDTO,"[{'objId': 13383, 'pdId': 28105, 'rpdId': 645065, 'devId': 306, 'ordNum': 1, 'objRenderPhotoSize': 1433738, 'objRenderPhotoUrl': 'https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/7c1ce108-aa51-45c2-acfa-3091f6bf7e54', 'objRenderPhotoDttm': '12-05-2021 16:56', 'objRenderPhotoHiddenFlg': 0, 'objRenderPhotoNm': 'IMG_20210512_093657.jpg', 'objReadyDesc': 'Строится', 'objBuildTypeShortDesc': 'Жилое', 'knFlg': 1, 'loadDttm': '12-10-2022 01:12'}, {'objId': 13383, 'pdId': 28105, 'rpdId': 645065, 'devId': 306, 'ordNum': 2, 'objRenderPhotoSize': 1304772, 'objRenderPhotoUrl': 'https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/cf350104-3afa-40e8-86e1-212da5c99a9a', 'objRenderPhotoDttm': '12-05-2021 16:56', 'objRenderPhotoHiddenFlg': 0, 'objRenderPhotoNm': 'IMG_20210512_0937271.jpg', 'objReadyDesc': 'Строится', 'objBuildTypeShortDesc': 'Жилое', 'knFlg': 1, 'loadDttm': '12-10-2022 01:12'}, {'objId': 13383, 'pdId': 28105, 'rpdId': 645065, 'devId': 306, 'ordNum': 3, 'objRenderPhotoSize': 1351679, 'objRenderPhotoUrl': 'https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/80422003-fc35-43f2-9174-de241b92bf1d', 'objRenderPhotoDttm': '12-05-2021 16:56', 'objRenderPhotoHiddenFlg': 0, 'objRenderPhotoNm': 'IMG_20210512_0938052.jpg', 'objReadyDesc': 'Строится', 'objBuildTypeShortDesc': 'Жилое', 'knFlg': 1, 'loadDttm': '12-10-2022 01:12'}, {'objId': 13383, 'pdId': 28105, 'rpdId': 645065, 'devId': 306, 'ordNum': 4, 'objRenderPhotoSize': 1472991, 'objRenderPhotoUrl': 'https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/f70dc8e2-776f-4405-8f6f-d410c0061adf', 'objRenderPhotoDttm': '12-05-2021 16:56', 'objRenderPhotoHiddenFlg': 0, 'objRenderPhotoNm': 'IMG_20210512_0938223.jpg', 'objReadyDesc': 'Строится', 'objBuildTypeShortDesc': 'Жилое', 'knFlg': 1, 'loadDttm': '12-10-2022 01:12'}, {'objId': 13383, 'pdId': 28105, 'rpdId': 645065, 'devId': 306, 'ordNum': 5, 'objRenderPhotoSize': 1063993, 'objRenderPhotoUrl': 'https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/ffd2a110-55a5-45c0-9bc1-61e146547df8', 'objRenderPhotoDttm': '12-05-2021 16:56', 'objRenderPhotoHiddenFlg': 0, 'objRenderPhotoNm': 'IMG_20210512_0940044.jpg', 'objReadyDesc': 'Строится', 'objBuildTypeShortDesc': 'Жилое', 'knFlg': 1, 'loadDttm': '12-10-2022 01:12'}, {'objId': 13383, 'pdId': 28105, 'rpdId': 645065, 'devId': 306, 'ordNum': 6, 'objRenderPhotoSize': 1034002, 'objRenderPhotoUrl': 'https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/4c2881c9-a6da-4235-8faa-2f74c5970837', 'objRenderPhotoDttm': '12-05-2021 16:56', 'objRenderPhotoHiddenFlg': 0, 'objRenderPhotoNm': 'IMG_20210512_0940155.jpg', 'objReadyDesc': 'Строится', 'objBuildTypeShortDesc': 'Жилое', 'knFlg': 1, 'loadDttm': '12-10-2022 01:12'}, {'objId': 13383, 'pdId': 28105, 'rpdId': 645065, 'devId': 306, 'ordNum': 7, 'objRenderPhotoSize': 1169206, 'objRenderPhotoUrl': 'https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/3c35f14c-f16c-46cc-a9a8-c3e828a514b0', 'objRenderPhotoDttm': '12-05-2021 16:56', 'objRenderPhotoHiddenFlg': 0, 'objRenderPhotoNm': 'IMG_20210512_0951216.jpg', 'objReadyDesc': 'Строится', 'objBuildTypeShortDesc': 'Жилое', 'knFlg': 1, 'loadDttm': '12-10-2022 01:12'}]",0
+quartography,"{'objLivElem1KCnt': 13, 'objLivElem2KCnt': 21, 'objLivElem3KCnt': 34, 'objLivElem4KCnt': 0, 'objLivElemCnt': 68, 'objLivElemEntrCnt': 1, 'objLivElemEntrFloorAvg': 6}",0
+region,72,0
+residentialBuildings,1,0
+rpdIssueDttm,10-10-2022 14:47,0
+rpdNum,72-000095,0
+rpdPdfLink,https://xn--80az8a.xn--d1aqf.xn--p1ai/api/ext/file/aaa95a43-de7a-4059-993d-1cf54e166cfc,0
+soldOutPerc,0.407163898325013,0
+wallMaterialShortDesc,Другое,0
