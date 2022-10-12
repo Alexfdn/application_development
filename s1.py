@@ -13,4 +13,4 @@ for i in range (1, b + 1):
         continue
     print(i)
 print(a, i)
-    
+# добрый вечер, я диспетчер  
